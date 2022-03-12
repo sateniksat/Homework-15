@@ -1,5 +1,5 @@
 import "./App.css";
-import Item from "./Item";
+import Item from "./Components/Item";
 
 function App() {
   return (
